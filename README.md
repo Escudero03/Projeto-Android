@@ -1,6 +1,6 @@
 
 
-**Clique e Descubra a História do Mascote do Android!** Uma página completa com todos os detalhes e curiosidades sobre o Bugdroid. Acesse agora: <a href="https://escudero03.github.io/Projeto-Android/" style="font-size:500%;" target="_blank">Projeto-Android</a>
+**Clique e Descubra a História do Mascote do Android!** Uma página completa com todos os detalhes e curiosidades sobre o Bugdroid. Acesse agora: <a href="https://escudero03.github.io/Projeto-Android/" style="font-size:120%;" target="_blank">Projeto-Android</a>
 
 # Curiosidades de Tecnologia: A História do Mascote do Android
 
