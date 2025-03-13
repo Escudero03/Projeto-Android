@@ -22,6 +22,13 @@ Este projeto é uma página web que explora a fascinante história do mascote do
 - Design responsivo para visualização em diferentes dispositivos.
 - Links externos para fontes e informações adicionais.
 
+---
+## 📸 Visualização 
+
+![projeto Android](dan-droid.png)
+
+*(Nota: Esta é uma imagem  da pagina!)*
+
 ## Tecnologias Utilizadas
 
 - **HTML5:** Estrutura da página web.
