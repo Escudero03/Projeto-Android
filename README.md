@@ -25,7 +25,7 @@ Este projeto é uma página web que explora a fascinante história do mascote do
 ---
 ## 📸 Visualização 
 
-![projeto Android](dan-droid.png)
+![projeto Android](dan-droids.png)
 
 *(Nota: Esta é uma imagem  da pagina!)*
 
@@ -45,16 +45,27 @@ Para visualizar o projeto em seu navegador:
 2. Abra o arquivo `index.html` em seu navegador web preferido.
 
 ## Estrutura do Projeto
+
 curiosidades-android/
+
 ├── imagens/
+
 │   ├── bugdroid.png
+
 │   ├── dan-droids.png
+
 │   ├── dan-droids-pq.png
+
 │   ├── favicon.ico
+
 │   ├── irina-blok.jpg
+
 │   └── irina-blok-pq.jpg
+
 ├── estilo/
+
 │   └── style.css
+
 └── index.html
 
  `index.html`: Arquivo HTML principal que contém a estrutura da página.
